@@ -34,5 +34,11 @@
 
 Cсылка на приложение чат_бот в облаке streamlir:
 
-Добавили код реализации API (fast_api.py) для нашего приложения. 
+Добавили код реализации API (fast_api.py) для нашего приложения.
+
+
      https://dataengineering1-dqcqbxqjhmttww4vr3wtrv.streamlit.app/
+
+
+Добавили тесты для приложения test_app.py
+     
