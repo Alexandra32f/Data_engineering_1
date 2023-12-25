@@ -29,4 +29,10 @@
          pip3 install torch torchvision torchaudio (win10)
          
 
-Создали файл requirements.txt с необходимыми зависимостями.         
+Создали файл requirements.txt с необходимыми зависимостями.
+
+
+Cсылка на приложение чат_бот в облаке streamlir:
+
+
+     https://dataengineering1-dqcqbxqjhmttww4vr3wtrv.streamlit.app/
