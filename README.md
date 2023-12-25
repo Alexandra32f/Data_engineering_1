@@ -32,13 +32,11 @@
 Создали файл requirements.txt с необходимыми зависимостями.
 
 
-Cсылка на приложение чат_бот в облаке streamlir:
+Cсылка на приложение чат_бот в облаке streamlir:    https://dataengineering1-dqcqbxqjhmttww4vr3wtrv.streamlit.app/
+
 
 Добавили код реализации API (fast_api.py) для нашего приложения.
+    
 
-
-     https://dataengineering1-dqcqbxqjhmttww4vr3wtrv.streamlit.app/
-
-
-Добавили тесты для приложения test_app.py
+Добавили тесты для приложения test_app.py, настроили автоматический запуск тестов при выполнении commit в репозиторий на GitHub.
      
